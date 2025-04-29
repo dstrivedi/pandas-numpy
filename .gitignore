@@ -1,0 +1,13 @@
+# Ignore all CSV files
+*.csv
+*.tsv
+*.xlsx
+
+# Ignore all .conda files
+*.conda
+
+# If you want to ignore a .conda folder (for example, a virtual environment)
+.conda/
+
+module04/311_Service_Requests_APRIL2018.csv
+pandas practice/food.tsv
